@@ -1,0 +1,104 @@
+[
+    {
+        "serialNo": 1,
+        "courseCode": "GED-1131",
+        "titleCourses": "Basic English",
+        "credits": "02"
+    },
+    {
+        "serialNo": 2,
+        "courseCode": "GED-1122",
+        "titleCourses": "Basic Computer Applications",
+        "credits": "02"
+    },
+    {
+        "serialNo": 3,
+        "courseCode": "GED-1101",
+        "titleCourses": "Bangla Language and Literature",
+        "credits": "02"
+    },
+    {
+        "serialNo": 4,
+        "courseCode": "GED 1231",
+        "titleCourses": "Functional English",
+        "credits": "02"
+    },
+    {
+        "serialNo": 5,
+        "courseCode": "GED-1291",
+        "titleCourses": "Introduction to Sociology",
+        "credits": "02"
+    },
+    {
+        "serialNo": 6,
+        "courseCode": "GED-2181",
+        "titleCourses": "Introduction to Economics",
+        "credits": "02"
+    },
+    {
+        "serialNo": 7,
+        "courseCode": "GED-1145",
+        "titleCourses": "Bangladesh Studies",
+        "credits": "02"
+    },
+    {
+        "serialNo": 8,
+        "courseCode": "GED-3114",
+        "titleCourses": "Development Studies",
+        "credits": "02"
+    },
+    {
+        "serialNo": 9,
+        "courseCode": "GED-3211",
+        "titleCourses": "Smart Village Studies",
+        "credits": "03"
+    },
+    {
+        "serialNo": 10,
+        "courseCode": "GED-1261",
+        "titleCourses": "Sustainable Development",
+        "credits": "02"
+    },
+    {
+        "serialNo": 11,
+        "courseCode": "GED-3213",
+        "titleCourses": "Research Methodology",
+        "credits": "02"
+    },
+    {
+        "serialNo": 12,
+        "courseCode": "GED- 4251",
+        "titleCourses": "Professional Practices and Ethics",
+        "credits": "02"
+    },
+    {
+        "serialNo": 13,
+        "courseCode": "GED-1117",
+        "titleCourses": "History of the Emergence of Bangladesh",
+        "credits": "02"
+    },
+    {
+        "serialNo": 14,
+        "courseCode": "GED-4112",
+        "titleCourses": "Advanced Research Methodology",
+        "credits": "02"
+    },
+    {
+        "serialNo": 15,
+        "courseCode": "GED-2115 ",
+        "titleCourses": "Macro Economics",
+        "credits": "02"
+    },
+    {
+        "serialNo": 16,
+        "courseCode": "GED-1216",
+        "titleCourses": "Fundamentals of Psychology",
+        "credits": "02"
+    },
+    {
+        "serialNo": 17,
+        "courseCode": "GED-2193",
+        "titleCourses": "Tourism and Hospitality Management",
+        "credits": "02"
+    }
+]
